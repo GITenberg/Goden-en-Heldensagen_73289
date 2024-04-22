@@ -5,6 +5,9 @@ contributor:
     agent_name: Theissen, J. S.
     gutenberg_agent_id: '57020'
     url: http://www.gutenberg.org/2009/agents/57020
+covers:
+- cover_type: archival
+  image_path: 73289-h/images/frontcover.jpg
 creator:
   author:
     agent_name: Hoffmann, E. T. A. (Ernst Theodor Amadeus)
@@ -20,6 +23,8 @@ creator:
     - https://en.wikipedia.org/wiki/E.T.A._Hoffmann
     - https://de.wikipedia.org/wiki/E._T._A._Hoffmann
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73289#Goden-en-Heldensagen
 gutenberg_issued: '2024-03-30'
 gutenberg_type: Text
 identifiers:
